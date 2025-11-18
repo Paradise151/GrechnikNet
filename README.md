@@ -36,12 +36,12 @@ e) Приложения/ сервисы от самих производител
 3) Выберите камеру (вначале включится фронтальная камера, не бойтесь и выберите заднюю камеру).
 4) Можете выбрать подходящую степень уверенности conf и метрику iou.
 5) Наведите камеру на гречку и нажмите Сделать фото.
-6) Подождите и появится фото с детекцией. Далее проделывайте так (5,6 пункты) с другими областями.
+6) Подождите и появится фото с детекцией. Далее проделывайте так (5,6 пункты) с другими областями гречки.
 
 # **Ссылки:**
 1) Демка нейронки на Hugging Face:  
 https://huggingface.co/spaces/Paradise151/GrechnikNet 
 2) Ноутбук с кодом на GitHub:  
-https://github.com/Paradise151/GrechnikNet 
-3) Датасет на Hugging Face:
-4)  https://huggingface.co/datasets/Paradise151/GrechnikDataset 
+https://github.com/Paradise151/GrechnikNet/blob/main/GrechnikNet_notebook.ipynb
+3) Датасет на Hugging Face:  
+https://huggingface.co/datasets/Paradise151/GrechnikDataset 
