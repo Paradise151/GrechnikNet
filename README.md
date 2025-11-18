@@ -28,3 +28,10 @@ e) Приложения/ сервисы от самих производител
 10) Попытаться сделать приложение-детектор гречки, в т.ч. на основе приложения tensorflow lite через модификацию вывода выбранной модели в файле-детекторе tensorflow_lite_support/cc/task/vision/object_detector.cc.
 11) Создать соревнование на Kaggle. Посоревноваться и решить задачу детекции гречки, да и просто разрешить эту проблему (довольно милую и важную).
 
+Ссылки: 
+1) Демка нейронки на Hugging Face:  
+https://huggingface.co/spaces/Paradise151/GrechnikNet 
+2) Ноутбук с кодом на GitHub:  
+https://github.com/Paradise151/GrechnikNet 
+3) Датасет на Hugging Face:
+4)  https://huggingface.co/datasets/Paradise151/GrechnikDataset 
