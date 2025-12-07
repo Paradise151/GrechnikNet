@@ -45,5 +45,5 @@ https://huggingface.co/spaces/Paradise151/GrechnikNet
 https://github.com/Paradise151/GrechnikNet/blob/main/GrechnikNet_notebook.ipynb
 3) Датасет на Hugging Face:  
 https://huggingface.co/datasets/Paradise151/GrechnikDataset  
-4) Статья на Хабре:tongue:
+4) Статья на Хабре :tongue:  
 https://habr.com/ru/articles/969676/
